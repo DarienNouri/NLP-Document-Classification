@@ -1,0 +1,33 @@
+canidate,totalMentions,positive,negative,neutral,compound
+Joe Biden,943,23.75,43.90,32.34,-0.11
+Joe Biden,943,23.75,43.90,32.34,-0.11
+Michelle Obama,20,35.00,25.00,40.00,-0.04
+Michelle Obama,20,35.00,25.00,40.00,-0.04
+Kamala Harris,120,24.17,49.17,26.67,-0.14
+Kamala Harris,120,24.17,49.17,26.67,-0.14
+Pete Buttigieg,26,34.62,19.23,46.15,0.04
+Pete Buttigieg,26,34.62,19.23,46.15,0.04
+Gretchen Whitmer,6,16.67,66.67,16.67,-0.19
+Gretchen Whitmer,6,16.67,66.67,16.67,-0.19
+Gavin Newsom,52,17.31,48.08,34.62,-0.20
+Gavin Newsom,52,17.31,48.08,34.62,-0.20
+Alexandria Ocasio Cortez,56,21.43,33.93,44.64,-0.08
+Alexandria Ocasio Cortez,56,21.43,33.93,44.64,-0.08
+Roy Cooper,2,50.00,0.00,50.00,0.26
+Roy Cooper,2,50.00,0.00,50.00,0.26
+Elizabeth Warren,24,25.00,45.83,29.17,-0.12
+Elizabeth Warren,24,25.00,45.83,29.17,-0.12
+Bernie Sanders,20,15.00,40.00,45.00,-0.14
+Bernie Sanders,20,15.00,40.00,45.00,-0.14
+Amy Klobuchar,5,20.00,40.00,40.00,-0.12
+Amy Klobuchar,5,20.00,40.00,40.00,-0.12
+Stacey Abrams,7,28.57,28.57,42.86,-0.02
+Stacey Abrams,7,28.57,28.57,42.86,-0.02
+Eric Adams,63,19.05,52.38,28.57,-0.19
+Eric Adams,63,19.05,52.38,28.57,-0.19
+Michael Bennet,10,10.00,40.00,50.00,-0.19
+Michael Bennet,10,10.00,40.00,50.00,-0.19
+Andy Beshear,10,10.00,50.00,40.00,-0.19
+Andy Beshear,10,10.00,50.00,40.00,-0.19
+Joe Biden,1001,19.48,45.95,34.57,-0.15
+Michelle Obama,12,25.00,33.33,41.67,-0.07
